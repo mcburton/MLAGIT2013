@@ -2,7 +2,7 @@
 
 This repository contains slides from my talk at the MLA 2013 on Git. 
 
-The presentation can be viewed online [here](http://mcburton.net/MLAGIT2013). I put PDF and PPTX the repository for those so inclined.
+The presentation can be viewed online [here](http://mcburton.net/MLAGIT2013). I put [PDF](https://github.com/mcburton/MLAGIT2013/blob/gh-pages/MLAGIT2013.pdf?raw=true) and [PPTX](https://github.com/mcburton/MLAGIT2013/blob/gh-pages/MLAGIT2013.pptx?raw=true) the repository for those so inclined.
 
 I have also included my drawings and screenshots in the ```raw-images``` folder.
 
