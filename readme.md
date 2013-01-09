@@ -2,10 +2,9 @@
 
 This repository contains slides from my talk at the MLA 2013 on Git. 
 
-
-The presentation can be viewed online [here](https://docs.google.com/presentation/d/1GLaYbTJfYxA_wOTOi9O2Y0WnSVeO_5Iu6NZi97-GyFI/pub?start=false&loop=false&delayms=3000)
-
-This repository contains copies of the presentation in PDF and PPTX.
+The presentation can be viewed online [here](http://mcburton.net/MLAGIT2013). I put PDF and PPTX the repository for those so inclined.
 
 I have also included my drawings and screenshots in the ```raw-images``` folder.
+
+All content is licensed [CC-BY-SA](http://creativecommons.org/licenses/by-sa/2.0/). EXCEPT the Github Octocat, which I hope I'm using fairly, and the Reddit rage face, which is owned by who-the-fuck-knows.
 
